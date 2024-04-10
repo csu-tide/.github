@@ -2,6 +2,9 @@ The TIDE project creates a computational core facility focused on meeting the re
 
 The main objective of our collaborative team with project leadership at San Diego State University, CSU San Bernardino, Cal Poly Humboldt, CSU Stanislaus, and the San Diego Supercomputing Center (SDSC) is to boost data-intensive research in various scientific fields across our 23 CSU campuses.
 
+This GitHub organization contains reposatories with sample code, tutorials, as well as hosts our technical documentation.
+
 👉 TIDE Website: https://tide.sdsu.edu/
+
 👉 TIDE Documentation: https://csu-tide.github.io/
 
