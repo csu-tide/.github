@@ -8,3 +8,5 @@ This GitHub organization contains repositories with sample code, tutorials, as w
 
 👉 TIDE Documentation: https://csu-tide.github.io/
 
+👉 TIDE Recipes: https://github.com/csu-tide/k8s-recipes
+
