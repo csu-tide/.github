@@ -11,4 +11,3 @@ This GitHub organization contains repositories with sample code, tutorials, as w
 👉 TIDE Kubernetes Recipes: https://github.com/csu-tide/k8s-recipes
 
 👉 TIDE Jupyter Quick Starts: https://github.com/csu-tide/jupyter-quickstarts
-
